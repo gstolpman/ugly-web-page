@@ -1,0 +1,30 @@
+body {
+   background-image: url(../img/lisa.jpg);
+}
+
+.title {
+    color: hotpink;
+}
+
+
+
+#title-cursive {
+    font-family: cursive;
+    color:hotpink;
+    font-size: 30px;
+}
+p.double {border-style: double;
+    color:greenyellow;
+}
+
+h2 {
+    font-family:fantasy;
+    color: red; 
+    font-size: 50px;
+}
+
+h3 {font:Helvetica;
+    color:red;
+    size: 80px;
+}
+
